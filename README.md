@@ -11,7 +11,7 @@ aidencaptcha@gmail.com
 
 
 效果图：
-![image](https://github.com/aidencaptcha/GeetestCaptchaBreak/blob/main/examples/100_successful.jpg)
+![image](https://github.com/aidencaptcha/YidunCaptchaBreak/blob/main/examples/100_successful.jpg)
 
 # 使用此类验证码的网站
 
