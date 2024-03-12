@@ -7,6 +7,8 @@ aidencaptcha@gmail.com
 
 
 # 更新说明
+2024-03-12: 上线 ZhihuLoginSpider 知乎-登录/注册实战案例
+
 2024-03-10: YidunCaptchaBreak 网易易盾验证码 全新上线
 
 
