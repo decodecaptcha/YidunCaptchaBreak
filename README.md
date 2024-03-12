@@ -1,6 +1,9 @@
 # YidunCaptchaBreak
 关于网易易盾验证码无感/滑块/点选/语序/空间推理验证码 id, token, fp, actoken, data, validate, NECaptchaValidate等参数的研究 纯协议 纯算法还原, 支持大并发
 
+# 成品项目地址
+* [YidunCaptchaBreak](https://github.com/aidencaptcha/YidunCaptchaBreak)
+
 有需求请在邮箱联系
 
 aidencaptcha@gmail.com
