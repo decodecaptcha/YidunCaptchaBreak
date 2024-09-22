@@ -4,9 +4,8 @@
 # 成品项目地址
 * [YidunCaptchaBreak](https://github.com/aidencaptcha/YidunCaptchaBreak)
 
-有需求请在邮箱联系
 
-aidencaptcha@gmail.com
+有需求请访问：https://decodecaptcha.com
 
 
 # 更新说明
